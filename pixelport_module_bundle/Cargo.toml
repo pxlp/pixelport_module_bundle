@@ -1,0 +1,9 @@
+[package]
+name = "pixelport_module_bundle"
+version = "0.1.0"
+authors = ["Fredrik Noren <fredrik.jw.noren@gmail.com>"]
+
+[lib]
+crate-type = ["dylib"]
+
+[dependencies]
